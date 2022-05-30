@@ -163,6 +163,7 @@ body {
   width: 1.5rem;
   height: 1.5rem;
   right: 4.5rem;
+  top: 0.75rem;
   display: none;
 }
 
@@ -212,6 +213,7 @@ body {
   }
   .hero-desktop {
     display: block;
+    float: right;
   }
 
   main {
@@ -294,5 +296,9 @@ body {
 
   .info-section .error-icon {
     right: 7.25rem;
+  }
+
+  .info-section .error-icon {
+    top: 1rem;
   }
 }
