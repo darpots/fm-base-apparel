@@ -20,8 +20,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/darpots/fm-base-apparel](https://github.com/darpots/fm-base-apparel)
+- Live Site URL: [https://fm-base-apparel.vercel.app](https://fm-base-apparel.vercel.app)
 
 ## My process
 
